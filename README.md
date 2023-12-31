@@ -39,6 +39,6 @@
   * *Ansible is an open-source automation tool that simplifies configuration management, application deployment...*
 
 * **Docker**
-  * Principle of containers who permits the creations of Linux containers*
+  * *Principle of containers who permits the creations of Linux containers*
  
 # In progress... It's already late. Ciao
